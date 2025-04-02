@@ -21,4 +21,4 @@ Este repositorio contiene una página web desarrollada como práctica del curso 
 - JavaScript
 [Google](www.google.com.ar)
 ## Autor
-Pablo Fernando Melissari
+Antonella Ferreyra
